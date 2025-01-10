@@ -10,6 +10,6 @@ public class HotelDTO {
     private String address;
     private String city;
     private float rating;
-
+    private int postalCode;
     private boolean isAvailable;
 }
